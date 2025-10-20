@@ -1,6 +1,6 @@
-##slovo="ИНФОРМАТИКА"
-##new_slovo = slovo[2]+ slovo[8]+ slovo [4]+slovo [5]+slovo[6]
-##print (new_slovo)
+slovo="ИНФОРМАТИКА"
+new_slovo = slovo[2]+ slovo[8]+ slovo [4]+slovo [5]+slovo[6]
+print (new_slovo)
 
 ##surname=input("Введите фамилию ")
 ##name=input ("Введите имя ")
@@ -64,3 +64,4 @@
 
         
     
+
